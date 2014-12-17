@@ -16,3 +16,32 @@ Practical Django code snippets and documentations
 3. [Django Tutorial](http://daikeren.github.io/django_tutorial/intro/README.html)
 
     Django Tutorial in Chinese.
+
+# Advanced Django Resources
+
+1. [Advanced django forms usage](http://www.slideshare.net/pydanny/advanced-django-forms-usage)
+
+
+# Recommended Packages
+
+1. [django-celery](https://pypi.python.org/pypi/django-celery)
+
+    [First steps with django](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html)
+
+2. [django-crispy-form](http://django-crispy-forms.readthedocs.org/en/latest/index.html)
+
+3. [Haystack](http://haystacksearch.org/)
+
+    Search for django
+
+4. [Factory Boy](http://factoryboy.readthedocs.org/en/latest/)
+
+    As a fixtures replacement tool, it aims to replace static, hard to maintain fixtures with easy-to-use factories for complex object.
+
+5. [django-tastypie](https://django-tastypie.readthedocs.org/en/latest/)
+
+    Tastypie is a webservice API framework for Django. It provides a convenient, yet powerful and highly customizable, abstraction for creating REST-style interfaces.
+
+6. [Django REST Framework](http://www.django-rest-framework.org/)
+
+    Django REST framework is a powerful and flexible toolkit that makes it easy to build Web APIs.
