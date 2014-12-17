@@ -21,6 +21,7 @@ Practical Django code snippets and documentations
 
 1. [Advanced django forms usage](http://www.slideshare.net/pydanny/advanced-django-forms-usage)
 
+2. [Effective Django](http://effectivedjango.com/index.html)
 
 # Recommended Packages
 
