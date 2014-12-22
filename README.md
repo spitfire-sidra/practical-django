@@ -46,3 +46,17 @@ Practical Django code snippets and documentations
 6. [Django REST Framework](http://www.django-rest-framework.org/)
 
     Django REST framework is a powerful and flexible toolkit that makes it easy to build Web APIs.
+
+# Available Linters
+
+1. [prospector](https://github.com/landscapeio/prospector)
+
+    ```
+    pip install prospector
+    ```
+
+2. [pylint-django](https://github.com/landscapeio/pylint-django)
+
+    ```
+    pip install pylint-django
+    ```
