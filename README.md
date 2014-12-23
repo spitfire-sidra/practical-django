@@ -17,6 +17,10 @@ Practical Django code snippets and documentations
 
     Django Tutorial in Chinese.
 
+# Useful Books
+
+1. [Two Scoops of Django: Best Practices For Django 1.6](http://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/098146730X)
+
 # Advanced Django Resources
 
 1. [Advanced django forms usage](http://www.slideshare.net/pydanny/advanced-django-forms-usage)
